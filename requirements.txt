@@ -1,0 +1,6 @@
+pip install tensorflow
+pip install picamera
+pip install opencv-python
+pip install pygame
+
+
